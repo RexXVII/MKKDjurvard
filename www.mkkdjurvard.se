@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MKK Djurvård</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Välkommen till MKK Djurvård</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#">Hem</a></li>
+      <li><a href="#">Om oss</a></li>
+      <li><a href="#">Tjänster</a></li>
+      <li><a href="#">Kontakt</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <section>
+      <h2>Om oss</h2>
+      <p>Vi erbjuder professionell djurvård.</p>
+    </section>
+    
+    <section>
+      <h2>Tjänster</h2>
+      <ul>
+        <li>Kloklippning</li>
+        <li>Pälsvård</li>
+      </ul>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 MKK Djurvård. Alla rättigheter förbehållna.</p>
+  </footer>
+</body>
+</html>
